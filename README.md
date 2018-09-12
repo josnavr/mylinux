@@ -1,0 +1,2 @@
+# mylinux
+cmds in linux
